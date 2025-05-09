@@ -11,7 +11,7 @@ Acest proiect reprezintă un **File Explorer** realizat în limbajul **C#**, car
 
 ## 💻 Tehnologii folosite
 - C# (.NET 8 sau .NET Framework)
-- Windows Forms / WPF (specificați aici ce folosiți)
+- Windows Forms
 - Git & GitHub pentru versionare și colaborare
 
 ## 🗂️ Funcționalități planificate
