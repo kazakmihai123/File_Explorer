@@ -1,0 +1,16 @@
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\bin\Debug\net8.0-windows\Total Explorer.exe
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\bin\Debug\net8.0-windows\Total Explorer.deps.json
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\bin\Debug\net8.0-windows\Total Explorer.runtimeconfig.json
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\bin\Debug\net8.0-windows\Total Explorer.dll
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\bin\Debug\net8.0-windows\Total Explorer.pdb
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\Total_Explorer.Form1.resources
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\Total Explorer.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\Total Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\Total Explorer.AssemblyInfoInputs.cache
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\Total Explorer.AssemblyInfo.cs
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\Total Explorer.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\Total Explorer.dll
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\refint\Total Explorer.dll
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\Total Explorer.pdb
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\Total Explorer.genruntimeconfig.cache
+C:\Users\Andrei\Desktop\Facultate\Proiect IP\Total Explorer\Total Explorer\obj\Debug\net8.0-windows\ref\Total Explorer.dll

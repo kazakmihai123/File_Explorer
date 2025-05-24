@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\Total Explorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E9A89C-6863-4ABE-A36C-98ACAD0F2C3F}|Total Explorer\\Total Explorer.csproj|c:\\users\\andrei\\desktop\\facultate\\proiect ip\\total explorer\\total explorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6E9A89C-6863-4ABE-A36C-98ACAD0F2C3F}|Total Explorer\\Total Explorer.csproj|solutionrelative:total explorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\Total Explorer\\Total Explorer\\Form1.cs",
+              "RelativeDocumentMoniker": "Total Explorer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\Total Explorer\\Total Explorer\\Form1.cs [Design]*",
+              "RelativeToolTip": "Total Explorer\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:59:07.255Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
