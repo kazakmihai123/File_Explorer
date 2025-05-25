@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TotalExplorer.Sorting\TotalExplorer.Sorting.csproj" />
+    <ProjectReference Include="..\TotalExplorer.Sorting\TotalExplorer.SortingStrategy.csproj" />
   </ItemGroup>
 
   <ItemGroup>
