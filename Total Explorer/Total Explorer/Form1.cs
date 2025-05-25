@@ -132,7 +132,7 @@ namespace Total_Explorer
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            LoadDrivesIntoListView1();
         }
 
         private void quitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -149,5 +149,58 @@ namespace Total_Explorer
                 MessageBoxIcon.Information
             );
         }
+
+        private void LoadFilesIntoListView1(string path)
+        {
+            var fileManager = new TotalExplorer.ManagingFiles.FileManager();
+
+            listView1.Items.Clear();
+
+            string[] directories = Directory.GetDirectories(path);
+            foreach (string dir in directories)
+            {
+                var dirInfo = new DirectoryInfo(dir);
+
+                if (dirInfo.Attributes.HasFlag(FileAttributes.Hidden) || dirInfo.Attributes.HasFlag(FileAttributes.System))
+                    continue;
+
+                var item = new ListViewItem(dirInfo.Name);
+                item.SubItems.Add("<DIR>");
+                item.SubItems.Add("");
+                item.SubItems.Add(dirInfo.LastWriteTime.ToString("yyyy-MM-dd HH:mm:ss"));
+                listView1.Items.Add(item);
+            }
+
+
+            List<string> files = fileManager.GetFilesFromDirectory(path);
+            foreach (string file in files)
+            {
+                var item = new ListViewItem(fileManager.GetFileName(file));
+                item.SubItems.Add(fileManager.GetFileExtension(file));
+                item.SubItems.Add(fileManager.GetFileSize(file));
+                item.SubItems.Add(fileManager.GetFileDateTime(file));
+                listView1.Items.Add(item);
+            }
+        }
+
+        private void LoadDrivesIntoListView1()
+        {
+            listView1.Items.Clear();
+
+            DriveInfo[] allDrives = DriveInfo.GetDrives();
+
+            foreach (DriveInfo d in allDrives)
+            {
+                if (!d.IsReady) continue; 
+
+                var item = new ListViewItem(d.Name);
+                item.SubItems.Add("<DRIVE>");
+                item.SubItems.Add(d.TotalSize.ToString());
+                item.SubItems.Add(d.VolumeLabel);
+                listView1.Items.Add(item);
+            }
+        }
+
+
     }
 }

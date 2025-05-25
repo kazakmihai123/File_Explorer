@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total Explorer", "Total Exp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalExplorer.SortingStrategy", "TotalExplorer.Sorting\TotalExplorer.SortingStrategy.csproj", "{5616D7F6-829E-464E-9047-8F9BBEF68600}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalExplorer.ManagingFiles", "TotalExplorer.ManagingFiles\TotalExplorer.ManagingFiles.csproj", "{643862A7-E265-452A-95AA-58177513B4C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5616D7F6-829E-464E-9047-8F9BBEF68600}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5616D7F6-829E-464E-9047-8F9BBEF68600}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5616D7F6-829E-464E-9047-8F9BBEF68600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643862A7-E265-452A-95AA-58177513B4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643862A7-E265-452A-95AA-58177513B4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643862A7-E265-452A-95AA-58177513B4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643862A7-E265-452A-95AA-58177513B4C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
