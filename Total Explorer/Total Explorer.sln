@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total Explorer", "Total Explorer\Total Explorer.csproj", "{F6E9A89C-6863-4ABE-A36C-98ACAD0F2C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalExplorer.Sorting", "TotalExplorer.Sorting\TotalExplorer.Sorting.csproj", "{5616D7F6-829E-464E-9047-8F9BBEF68600}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F6E9A89C-6863-4ABE-A36C-98ACAD0F2C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6E9A89C-6863-4ABE-A36C-98ACAD0F2C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6E9A89C-6863-4ABE-A36C-98ACAD0F2C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5616D7F6-829E-464E-9047-8F9BBEF68600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5616D7F6-829E-464E-9047-8F9BBEF68600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5616D7F6-829E-464E-9047-8F9BBEF68600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5616D7F6-829E-464E-9047-8F9BBEF68600}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
