@@ -32,8 +32,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.Sorting.csproj": {
-                "projectPath": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.Sorting.csproj"
+              "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.SortingStrategy.csproj": {
+                "projectPath": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.SortingStrategy.csproj"
               }
             }
           }
@@ -76,11 +76,11 @@
         }
       }
     },
-    "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.Sorting.csproj": {
+    "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.SortingStrategy.csproj": {
       "restore": {
-        "projectUniqueName": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.Sorting.csproj",
-        "projectName": "TotalExplorer.Sorting",
-        "projectPath": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.Sorting.csproj",
+        "projectUniqueName": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.SortingStrategy.csproj",
+        "projectName": "TotalExplorer.SortingStrategy",
+        "projectPath": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.SortingStrategy.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net472": {

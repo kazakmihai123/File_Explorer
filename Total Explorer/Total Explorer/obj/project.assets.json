@@ -2,27 +2,27 @@
   "version": 3,
   "targets": {
     "net8.0-windows7.0": {
-      "TotalExplorer.Sorting/1.0.0": {
+      "TotalExplorer.SortingStrategy/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/TotalExplorer.Sorting.dll": {}
+          "bin/placeholder/TotalExplorer.SortingStrategy.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TotalExplorer.Sorting.dll": {}
+          "bin/placeholder/TotalExplorer.SortingStrategy.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TotalExplorer.Sorting/1.0.0": {
+    "TotalExplorer.SortingStrategy/1.0.0": {
       "type": "project",
-      "path": "../TotalExplorer.Sorting/TotalExplorer.Sorting.csproj",
-      "msbuildProject": "../TotalExplorer.Sorting/TotalExplorer.Sorting.csproj"
+      "path": "../TotalExplorer.Sorting/TotalExplorer.SortingStrategy.csproj",
+      "msbuildProject": "../TotalExplorer.Sorting/TotalExplorer.SortingStrategy.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "TotalExplorer.Sorting >= 1.0.0"
+      "TotalExplorer.SortingStrategy >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -57,8 +57,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.Sorting.csproj": {
-              "projectPath": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.Sorting.csproj"
+            "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.SortingStrategy.csproj": {
+              "projectPath": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.SortingStrategy.csproj"
             }
           }
         }

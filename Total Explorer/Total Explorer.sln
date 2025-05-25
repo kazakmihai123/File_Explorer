@@ -5,7 +5,7 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Total Explorer", "Total Explorer\Total Explorer.csproj", "{F6E9A89C-6863-4ABE-A36C-98ACAD0F2C3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalExplorer.Sorting", "TotalExplorer.Sorting\TotalExplorer.Sorting.csproj", "{5616D7F6-829E-464E-9047-8F9BBEF68600}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalExplorer.SortingStrategy", "TotalExplorer.Sorting\TotalExplorer.SortingStrategy.csproj", "{5616D7F6-829E-464E-9047-8F9BBEF68600}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
