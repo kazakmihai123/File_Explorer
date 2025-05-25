@@ -8,8 +8,10 @@
 *.dbmdl
 *.pdb
 
+# Build outputs
 bin/
 obj/
 
+# Alte fișiere temporare
 *.tmp
-.~
+*.~*
