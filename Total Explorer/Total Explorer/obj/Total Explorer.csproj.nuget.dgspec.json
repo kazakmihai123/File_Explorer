@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\Total Explorer\\Total Explorer\\Total Explorer.csproj": {}
+    "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\File_Explorer\\Total Explorer\\Total Explorer\\Total Explorer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\Total Explorer\\Total Explorer\\Total Explorer.csproj": {
+    "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\File_Explorer\\Total Explorer\\Total Explorer\\Total Explorer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\Total Explorer\\Total Explorer\\Total Explorer.csproj",
+        "projectUniqueName": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\File_Explorer\\Total Explorer\\Total Explorer\\Total Explorer.csproj",
         "projectName": "Total Explorer",
-        "projectPath": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\Total Explorer\\Total Explorer\\Total Explorer.csproj",
+        "projectPath": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\File_Explorer\\Total Explorer\\Total Explorer\\Total Explorer.csproj",
         "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\Total Explorer\\Total Explorer\\obj\\",
+        "outputPath": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\File_Explorer\\Total Explorer\\Total Explorer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
