@@ -10,7 +10,25 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TotalExplorer.Sorting\TotalExplorer.SortingStrategy.csproj" />
+    <None Remove="images\downarrow.png" />
+    <None Remove="images\leftarrow.png" />
+    <None Remove="images\rightarrow.png" />
+    <None Remove="images\uparrow.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\downarrow.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\leftarrow.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\rightarrow.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\uparrow.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>

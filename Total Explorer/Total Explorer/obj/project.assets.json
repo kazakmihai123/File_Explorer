@@ -1,48 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0-windows7.0": {
-      "TotalExplorer.SortingStrategy/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/TotalExplorer.SortingStrategy.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/TotalExplorer.SortingStrategy.dll": {}
-        }
-      }
-    }
+    "net8.0-windows7.0": {}
   },
-  "libraries": {
-    "TotalExplorer.SortingStrategy/1.0.0": {
-      "type": "project",
-      "path": "../TotalExplorer.Sorting/TotalExplorer.SortingStrategy.csproj",
-      "msbuildProject": "../TotalExplorer.Sorting/TotalExplorer.SortingStrategy.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": [
-      "TotalExplorer.SortingStrategy >= 1.0.0"
-    ]
+    "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ratam\\.nuget\\packages\\": {},
-    "F:\\Visual_Studio_Shared\\NuGetPackages": {}
+    "C:\\Users\\Andrei\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\Total Explorer\\Total Explorer.csproj",
+      "projectUniqueName": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\File_Explorer\\Total Explorer\\Total Explorer\\Total Explorer.csproj",
       "projectName": "Total Explorer",
-      "projectPath": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\Total Explorer\\Total Explorer.csproj",
-      "packagesPath": "C:\\Users\\ratam\\.nuget\\packages\\",
-      "outputPath": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\Total Explorer\\obj\\",
+      "projectPath": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\File_Explorer\\Total Explorer\\Total Explorer\\Total Explorer.csproj",
+      "packagesPath": "C:\\Users\\Andrei\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrei\\Desktop\\Facultate\\Proiect IP\\File_Explorer\\Total Explorer\\Total Explorer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "F:\\Visual_Studio_Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ratam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -56,11 +38,7 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {
-            "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.SortingStrategy.csproj": {
-              "projectPath": "E:\\CTI\\An_3\\Semestrul_2\\IP_IngineriaProgramari\\File_Explorer\\Total Explorer\\TotalExplorer.Sorting\\TotalExplorer.SortingStrategy.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -97,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
