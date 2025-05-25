@@ -20,6 +20,9 @@ namespace Total_Explorer
         {
             InitializeComponent();
 
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+
             arrowUp = LoadImage("uparrow.png");
             arrowDown = LoadImage("downarrow.png");
 
@@ -105,7 +108,7 @@ namespace Total_Explorer
 
             if (e.ColumnIndex == currentSortColumn)
             {
-                e.Graphics.FillRectangle(Brushes.LightGray, e.Bounds);
+                e.Graphics.FillRectangle(Brushes.WhiteSmoke, e.Bounds);
                 textBounds.X += arrowsize + 4;
                 textBounds.Width -= arrowsize + 4;
 

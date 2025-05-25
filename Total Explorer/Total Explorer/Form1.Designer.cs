@@ -52,6 +52,8 @@
             copytoleftbutton = new Button();
             movetorightbutton = new Button();
             movetoleftbutton = new Button();
+            delete1 = new Button();
+            delete2 = new Button();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -227,12 +229,32 @@
             movetoleftbutton.TabIndex = 11;
             movetoleftbutton.UseVisualStyleBackColor = true;
             // 
+            // delete1
+            // 
+            delete1.Image = (Image)resources.GetObject("delete1.Image");
+            delete1.Location = new Point(220, 51);
+            delete1.Name = "delete1";
+            delete1.Size = new Size(46, 43);
+            delete1.TabIndex = 12;
+            delete1.UseVisualStyleBackColor = true;
+            // 
+            // delete2
+            // 
+            delete2.Image = (Image)resources.GetObject("delete2.Image");
+            delete2.Location = new Point(1018, 51);
+            delete2.Name = "delete2";
+            delete2.Size = new Size(46, 43);
+            delete2.TabIndex = 13;
+            delete2.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Control;
             ClientSize = new Size(1579, 851);
+            Controls.Add(delete2);
+            Controls.Add(delete1);
             Controls.Add(movetoleftbutton);
             Controls.Add(movetorightbutton);
             Controls.Add(copytoleftbutton);
@@ -244,6 +266,7 @@
             Controls.Add(backbutton1);
             Controls.Add(listView1);
             Controls.Add(menuStrip1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "Total Explorer";
@@ -279,5 +302,7 @@
         private Button copytoleftbutton;
         private Button movetorightbutton;
         private Button movetoleftbutton;
+        private Button delete1;
+        private Button delete2;
     }
 }
