@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Total Explorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6c58aa2a583e31983144213ee6c1026ce57cd2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ac4f80abe25a7d32082a4953cdb48a7b2f01507")]
 [assembly: System.Reflection.AssemblyProductAttribute("Total Explorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Total Explorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
